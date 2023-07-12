@@ -1,10 +1,10 @@
 # Logistics TMS: Automated Transport Management Solution
 
-![Build Status](https://github.com/suxrobgm/logistics-app/actions/workflows/dotnet-build.yml/badge.svg)
-![Tests](https://github.com/suxrobgm/logistics-app/actions/workflows/dotnet-test.yml/badge.svg)
-![Deployment](https://github.com/suxrobgm/logistics-app/actions/workflows/deploy-ftp.yml/badge.svg)
-![OfficeApp Build](https://github.com/suxrobgm/logistics-app/actions/workflows/officeapp-build.yml/badge.svg)
-![DriverApp Build](https://github.com/suxrobgm/logistics-app/actions/workflows/driverapp-build.yml/badge.svg)
+![Build Status](https://github.com/DylanW01/logistics-app/actions/workflows/dotnet-build.yml/badge.svg)
+![Tests](https://github.com/DylanW01/logistics-app/actions/workflows/dotnet-test.yml/badge.svg)
+![Deployment](https://github.com/DylanW01/logistics-app/actions/workflows/deploy-ftp.yml/badge.svg)
+![OfficeApp Build](https://github.com/DylanW01/logistics-app/actions/workflows/officeapp-build.yml/badge.svg)
+![DriverApp Build](https://github.com/DylanW01/logistics-app/actions/workflows/driverapp-build.yml/badge.svg)
 
 Logistics TMS is an ultimate solution for all transport management needs. With a focus on automation, this Transportation Management System (TMS) is designed to streamline logistics, offering an efficient, optimized way to manage inbound and outbound transport operations.
 
